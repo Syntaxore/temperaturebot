@@ -7,7 +7,7 @@ from handlers.handler import router as handler_router
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token='7430076650:AAG9aa4MMu-72fGrE2aE39VXt-ep7kkfDEk')
+bot = Bot(token='TOKEN')
 
 dp = Dispatcher()
 dp.include_router(keyboard_router)
