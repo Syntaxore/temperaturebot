@@ -1,1 +1,2 @@
 # temperaturebot
+pip install aiogram
